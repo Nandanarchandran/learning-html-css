@@ -22,15 +22,15 @@
 }
 
 #table{
-    text-align: center;
+    text-align: left;
     background-color: rgb(128, 128, 128);
-    padding: 30px;
+    padding: 35px;
 }
 
 #table table{
-    width: 60%;
+    width: 80%;
     margin: 0 auto;
-    padding: 30px;
+    padding: 35px;
     border-color: black;
 }
 
@@ -40,13 +40,13 @@
 }
 
 #para p{
-    font-size: 15px;
+    font-size: 30px;
 }
 
 #links{
     text-align: center;
     background-color: grey;
-    padding: 30px;
+    padding: 35px;
 }
 
 #links a{
