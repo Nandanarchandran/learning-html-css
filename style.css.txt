@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+}
+
+#images{
+    background-color: bisque;
+    text-align: center;
+    height: 100px;
+    padding: 30px;
+}
+
+#ulist{
+    background-color: grey;
+    padding: 30px;
+
+}
+
+#olist{
+    
+    background-color: bisque;
+    padding: 30px;
+}
+
+#table{
+    text-align: center;
+    background-color: grey;
+    padding: 30px;
+}
+
+#table table{
+    width: 60%;
+    margin: 0 auto;
+    padding: 30px;
+    border-color: red;
+}
+
+#para{
+    padding: 30px;
+    background-color: bisque;
+}
+
+#para p{
+    font-size: 15px;
+}
+
+#links{
+    text-align: center;
+    background-color: grey;
+    padding: 30px;
+}
+
+#links a{
+    text-decoration: none;
+    color: black;
+}
+
+#links a:hover{
+    color: red;
+}
+
+footer{
+    color: white;
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+    font-size: 25px;
+
+}
